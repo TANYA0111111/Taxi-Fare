@@ -133,23 +133,6 @@ Install required Python libraries:
 
 pip install pandas numpy seaborn matplotlib scikit-learn
 
-Steps
-
-Clone this repository
-
-git clone https://github.com/your-username/taxi-fare-prediction.git
-cd taxi-fare-prediction
-
-
-Place the dataset Taxi_Set.csv in the project directory.
-
-Open the notebook:
-
-jupyter notebook final_code.ipynb
-
-
-Run all cells to reproduce the analysis and model training.
-
 🏁 Results
 
 Random Forest Regressor achieved R² = 0.9971 and MSE = 3.25
